@@ -1,0 +1,6 @@
+C:\Lenguajes2024G2\SESIÓN_23_LOGIN\AppPuntoVentaG2\BLL\bin\Debug\BLL.dll
+C:\Lenguajes2024G2\SESIÓN_23_LOGIN\AppPuntoVentaG2\BLL\bin\Debug\BLL.pdb
+C:\Lenguajes2024G2\SESIÓN_23_LOGIN\AppPuntoVentaG2\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Lenguajes2024G2\SESIÓN_23_LOGIN\AppPuntoVentaG2\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Lenguajes2024G2\SESIÓN_23_LOGIN\AppPuntoVentaG2\BLL\obj\Debug\BLL.dll
+C:\Lenguajes2024G2\SESIÓN_23_LOGIN\AppPuntoVentaG2\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,27 @@
+C:\Lenguajes2024G2\SESIÓN_24_BACK_END\AppPuntoVentaG2\DAL\bin\Debug\DAL.dll
+C:\Lenguajes2024G2\SESIÓN_24_BACK_END\AppPuntoVentaG2\DAL\bin\Debug\DAL.pdb
+C:\Lenguajes2024G2\SESIÓN_24_BACK_END\AppPuntoVentaG2\DAL\bin\Debug\BLL.dll
+C:\Lenguajes2024G2\SESIÓN_24_BACK_END\AppPuntoVentaG2\DAL\bin\Debug\BLL.pdb
+C:\Lenguajes2024G2\SESIÓN_24_BACK_END\AppPuntoVentaG2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Lenguajes2024G2\SESIÓN_24_BACK_END\AppPuntoVentaG2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Lenguajes2024G2\SESIÓN_24_BACK_END\AppPuntoVentaG2\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Lenguajes2024G2\SESIÓN_24_BACK_END\AppPuntoVentaG2\DAL\obj\Debug\DAL.dll
+C:\Lenguajes2024G2\SESIÓN_24_BACK_END\AppPuntoVentaG2\DAL\obj\Debug\DAL.pdb
+C:\Lenguajes2024G2\SESIÓN_25_CRUD\AppPuntoVentaG2\DAL\bin\Debug\DAL.dll
+C:\Lenguajes2024G2\SESIÓN_25_CRUD\AppPuntoVentaG2\DAL\bin\Debug\DAL.pdb
+C:\Lenguajes2024G2\SESIÓN_25_CRUD\AppPuntoVentaG2\DAL\bin\Debug\BLL.dll
+C:\Lenguajes2024G2\SESIÓN_25_CRUD\AppPuntoVentaG2\DAL\bin\Debug\BLL.pdb
+C:\Lenguajes2024G2\SESIÓN_25_CRUD\AppPuntoVentaG2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Lenguajes2024G2\SESIÓN_25_CRUD\AppPuntoVentaG2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Lenguajes2024G2\SESIÓN_25_CRUD\AppPuntoVentaG2\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Lenguajes2024G2\SESIÓN_25_CRUD\AppPuntoVentaG2\DAL\obj\Debug\DAL.dll
+C:\Lenguajes2024G2\SESIÓN_25_CRUD\AppPuntoVentaG2\DAL\obj\Debug\DAL.pdb
+C:\MEL\UCR\IF-4101 LENGUAJES PARA APLICACIONES COMERCIALES\2024\SESIÓN_26_CRUD\AppPuntoVentaG2\DAL\bin\Debug\DAL.dll
+C:\MEL\UCR\IF-4101 LENGUAJES PARA APLICACIONES COMERCIALES\2024\SESIÓN_26_CRUD\AppPuntoVentaG2\DAL\bin\Debug\DAL.pdb
+C:\MEL\UCR\IF-4101 LENGUAJES PARA APLICACIONES COMERCIALES\2024\SESIÓN_26_CRUD\AppPuntoVentaG2\DAL\bin\Debug\BLL.dll
+C:\MEL\UCR\IF-4101 LENGUAJES PARA APLICACIONES COMERCIALES\2024\SESIÓN_26_CRUD\AppPuntoVentaG2\DAL\bin\Debug\BLL.pdb
+C:\MEL\UCR\IF-4101 LENGUAJES PARA APLICACIONES COMERCIALES\2024\SESIÓN_26_CRUD\AppPuntoVentaG2\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\MEL\UCR\IF-4101 LENGUAJES PARA APLICACIONES COMERCIALES\2024\SESIÓN_26_CRUD\AppPuntoVentaG2\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\MEL\UCR\IF-4101 LENGUAJES PARA APLICACIONES COMERCIALES\2024\SESIÓN_26_CRUD\AppPuntoVentaG2\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\MEL\UCR\IF-4101 LENGUAJES PARA APLICACIONES COMERCIALES\2024\SESIÓN_26_CRUD\AppPuntoVentaG2\DAL\obj\Debug\DAL.dll
+C:\MEL\UCR\IF-4101 LENGUAJES PARA APLICACIONES COMERCIALES\2024\SESIÓN_26_CRUD\AppPuntoVentaG2\DAL\obj\Debug\DAL.pdb
